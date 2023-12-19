@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 public class Lab07 {
     public static void main(String[] args) {
         Set testSet1 = new Set();
